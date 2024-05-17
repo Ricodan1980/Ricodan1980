@@ -66,3 +66,29 @@ The following is a list of common fixtures and features found in a typical ensui
   - Waterproof, such as tiled flooring
 - **Wall Finishes**
   - Often tiled or moisture-resistant
+# Main Bedroom
+
+Below is a generic list of fixtures and features typically found in a newly built main bedroom:
+
+- **Light Fittings**
+  - Overhead lights, possibly with dimmer
+  - Reading lights
+- **Curtain Rails or Blinds**
+  - For window treatments
+- **Windows**
+  - Includes hardware like locks or handles
+- **Electrical Outlets**
+  - Strategically placed
+- **Closet/Wardrobe**
+  - Built-in for clothes storage
+- **Carpet or Flooring**
+  - Depending on style and location
+- **Door(s)**
+  - Includes handles, locks
+- **Heating and Cooling Units**
+  - Radiators, AC units, or HVAC vents
+- **Smoke Detector**
+- **Paint/Wall Finish**
+  - Includes baseboards, possibly crown molding
+- **Ceiling Fan** (optional)
+  - For additional air circulation
