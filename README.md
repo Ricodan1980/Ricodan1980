@@ -22,3 +22,12 @@ You can click the Preview link to take a look at your changes.
     <video src="room_video.mp4" controls>Video not supported</video>
 </body>
 </html>
+# Room Fixtures and Features Repository
+
+This repository contains detailed lists of fixtures and features found in various rooms of a newly built home. These lists are intended to assist in inventory checks, inspections, and initial setups for newly constructed or remodeled residential spaces.
+
+## Contents
+
+- [Ensuite Bathroom](/Ensuite_Bathroom.md)
+- [Main Bedroom](/Main_Bedroom.md)
+- [Living Room](/Living_Room.md)  // Add as needed
