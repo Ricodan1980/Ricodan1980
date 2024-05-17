@@ -31,3 +31,38 @@ This repository contains detailed lists of fixtures and features found in variou
 - [Ensuite Bathroom](/Ensuite_Bathroom.md)
 - [Main Bedroom](/Main_Bedroom.md)
 - [Living Room](/Living_Room.md)  // Add as needed
+# Ensuite Bathroom
+
+The following is a list of common fixtures and features found in a typical ensuite bathroom:
+
+- **Sink**
+  - Faucets
+  - Vanity unit
+- **Toilet**
+  - Toilet seat
+  - Lid
+  - Toilet roll holder
+- **Shower**
+  - Shower head
+  - Controls
+  - Shower tray or enclosure
+- **Mirror**
+  - Usually above the sink
+- **Towel Rails/Hooks**
+  - For hanging towels
+- **Bath** (optional)
+  - Faucets
+  - Bath mat
+- **Exhaust Fan**
+  - For ventilation
+- **Cabinetry**
+  - Storage for toiletries
+- **Lighting**
+  - Overhead lights, possibly recessed
+  - Additional lighting near the mirror
+- **Electrical Outlets**
+  - For shavers or other appliances
+- **Flooring**
+  - Waterproof, such as tiled flooring
+- **Wall Finishes**
+  - Often tiled or moisture-resistant
