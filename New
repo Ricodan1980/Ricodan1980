@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Room Details</title>
+</head>
+<body>
+    <h1>Room Name/Number</h1>
+    <p>Description of the room.</p>
+    <img src="link_to_room_image.jpg" alt="Room Image">
+    <video src="room_video.mp4" controls>Video not supported</video>
+</body>
+</html>
